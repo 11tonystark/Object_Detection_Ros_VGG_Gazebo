@@ -1,0 +1,8 @@
+prefix=/home/tony/rhinoceROS/devel
+
+Name: ros_service
+Description: Description of ros_service
+Version: 0.0.0
+Cflags: -I/home/tony/rhinoceROS/devel/include
+Libs: -L/home/tony/rhinoceROS/devel/lib 
+Requires: 

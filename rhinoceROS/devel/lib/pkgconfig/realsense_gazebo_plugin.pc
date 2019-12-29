@@ -1,0 +1,8 @@
+prefix=/home/tony/rhinoceROS/devel
+
+Name: realsense_gazebo_plugin
+Description: Description of realsense_gazebo_plugin
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tony/rhinoceROS/devel/lib 
+Requires: roscpp gazebo_ros

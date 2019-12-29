@@ -1,0 +1,2 @@
+realsense_gazebo_plugin:ros_service
+-DCATKIN_DEVEL_PREFIX=/home/tony/rhinoceROS/devel -DCMAKE_INSTALL_PREFIX=/home/tony/rhinoceROS/install -G Unix Makefiles
